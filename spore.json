@@ -1,16 +1,16 @@
 {
     "id": "home",
     "link": {
-        "href": "https://github.com/lafelabs/spore/",
+        "href": "https://github.com/lafelabs/blackflag/",
         "text": "spore"
     },
     "port": 8086,
-    "scroll": "https://github.com/LafeLabs/spore/blob/main/README.md",
+    "scroll": "https://github.com/LafeLabs/blackflag/blob/main/README.md",
     "title": ":::<--SPORE-->:::",
-    "qrcode": "https://github.com/lafelabs/spore/",
-    "py": "https://raw.githubusercontent.com/LafeLabs/spore/refs/heads/main/spore.py",
-    "php": "https://raw.githubusercontent.com/LafeLabs/spore/refs/heads/main/spore.php",
-    "json": "https://raw.githubusercontent.com/LafeLabs/spore/refs/heads/main/spore.json",
+    "qrcode": "https://github.com/lafelabs/blackflag/",
+    "py": "https://raw.githubusercontent.com/LafeLabs/blackflag/refs/heads/main/spore.py",
+    "php": "https://raw.githubusercontent.com/LafeLabs/blackflag/refs/heads/main/spore.php",
+    "json": "https://raw.githubusercontent.com/LafeLabs/blackflag/refs/heads/main/spore.json",
     "highway": "US 36",
     "boulevard": "Sheridan",
     "avenue": "Colfax",
